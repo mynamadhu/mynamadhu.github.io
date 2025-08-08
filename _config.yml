@@ -1,0 +1,7 @@
+title: "K. Madhavi"
+description: "Professional Profile & Resume"
+theme: jekyll-theme-minimal
+
+# Optional settings
+logo: /assets/profile.jpg   # You can add a profile photo in the assets folder
+show_downloads: false
