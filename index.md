@@ -1,5 +1,3 @@
-# mynamadhu.github.io
-my personal website
 # K. Madhavi
 
 **Email:** [myna.madhu@gmail.com](mailto:myna.madhu@gmail.com), [m.madhavvi@gmail.com](mailto:m.madhavvi@gmail.com)  
@@ -102,3 +100,9 @@ Ratified by JNTUH, Hyderabad in March 2017.
 
 *Date: 15 January 2025*  
 *Place: Hyderabad*
+
+
+
+
+
+
